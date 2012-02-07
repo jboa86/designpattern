@@ -1,0 +1,3 @@
+1. private 생성자 - 다른 클래스에서 singleton 클랙스의 객체를 생성할 수 없다.
+2.  - 외부에서 수정할 수 없다.
+3. public static method는 오직 한나의 객체만 얻을 수 있다.
